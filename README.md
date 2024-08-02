@@ -59,6 +59,22 @@ My name is Jorge Andres Marles Florez, I am a colombian full-stack web developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeMarles&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMarles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Projects
+## DivisistApp (Frontend)
+Web Application for simulating timetable for UFPS Systems Engineering Pensum, as well as looking all the groups, etc.
+### Technologies used
+React + Vite + Typescript + GitHub Actions 
+### Useful Links
+View Page: [DivisistApp](https://jorgemarles.github.io/divisist-app-admin/)  
+Repository: [divisist-app-admin](https://github.com/JorgeMarles/divisist-app-admin)
+
+## DivisistApp (Backend)
+Backend Application for retrieving info of  UFPS Systems Engineering Pensum.
+### Technologies used
+Expressjs + Typescript + Swagger + Google Cloud Run
+### Useful Links
+View Swagger Docs: [DivisistAppBackend](https://divisistapp-backend-service-mgewfl33zq-uc.a.run.app/docs)  
+Repository: [divisist-app-backend](https://github.com/JorgeMarles/divisist-app-backend)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JorgeMarles&icon=0&color=0)](https://visitcount.itsvg.in)
